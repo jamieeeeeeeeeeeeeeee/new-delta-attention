@@ -32,6 +32,9 @@ This repository is built as a fork of `fla-org/flash-linear-attention`, and **he
 
 And thank you to my tutor, **Dr. Anirbit Mukherjee**, for his guidance, teachings, and support throughout this project.
 
+**Small note**
+This is a research codebase, not all paths from KDA have been completely adapted and there is lines of stale code, and even in the core implementation there are probably bugs and definitley inefficiencies. 
+
 <div align="center">
 
 # 💥 Flash Linear Attention
