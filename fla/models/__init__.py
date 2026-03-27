@@ -24,6 +24,7 @@ from fla.models.mamba2 import Mamba2Config, Mamba2ForCausalLM, Mamba2Model
 from fla.models.mesa_net import MesaNetConfig, MesaNetForCausalLM, MesaNetModel
 from fla.models.mla import MLAConfig, MLAForCausalLM, MLAModel
 from fla.models.mom import MomConfig, MomForCausalLM, MomModel
+from fla.models.nda import NDAConfig, NDAForCausalLM, NDAModel
 from fla.models.nsa import NSAConfig, NSAForCausalLM, NSAModel
 from fla.models.path_attn import PaTHAttentionConfig, PaTHAttentionForCausalLM, PaTHAttentionModel
 from fla.models.retnet import RetNetConfig, RetNetForCausalLM, RetNetModel
@@ -97,6 +98,9 @@ __all__ = [
     'MomConfig',
     'MomForCausalLM',
     'MomModel',
+    'NDAConfig',
+    'NDAForCausalLM',
+    'NDAModel',
     'NSAConfig',
     'NSAForCausalLM',
     'NSAModel',
